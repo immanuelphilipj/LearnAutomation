@@ -3,9 +3,9 @@ Feature: To test Specification functionality for Pricing selected as Basic
   Background: 
     Given User login to the retail application with URL
     """
-    https://ism-qa.rrd.com/retailism/
+    
     """
-    When User enter the "arun.jacob@ulta.com" and "Password1"
+    When User enter the "xxxx" and "xxxxx"
 
   Scenario: To Pricing Method as Basic
     Given User login and navigate to Item Management module
