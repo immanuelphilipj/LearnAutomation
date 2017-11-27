@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extentreports>
+    <configuration>
+    
+        <theme>standard</theme>
+        <encoding>UTF-8</encoding>
+        <protocol>HTTPS</protocol>
+        <documentTitle>Retail ISM</documentTitle>
+        <reportName>Retail Team Report</reportName>
+        <reportHeadline> Regression suite</reportHeadline>
+        <dateFormat>MM-DD-YYYY</dateFormat>
+        <timeFormat>HH:MM:SS</timeFormat>
+   
+   
+    </configuration>
+</extentreports>
